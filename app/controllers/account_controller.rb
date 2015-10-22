@@ -1,3 +1,4 @@
+#This is edited by me
 # Redmine - project management software
 # Copyright (C) 2006-2015  Jean-Philippe Lang
 #
